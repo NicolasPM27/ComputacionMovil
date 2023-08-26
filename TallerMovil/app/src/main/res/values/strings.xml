@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">T1_PAISES</string>
+    <string name="seleccione_una_region">Seleccione una región:</string>
+    <string name="listar_los_paises">Listar los paises</string>
+    <string name="continents">Continents</string>
+    <string name="call_button">Call Button</string>
+    <string name="country_flag">country flag</string>
+    <string name="phone">phone</string>
+    <string name="country_name">Country Name</string>
+    <string name="country_native_name">native name</string>
+    <string name="currency">currency($)</string>
+    <string name="code">code</string>
+    <string name="country_codes">COUNTRY CODES</string>
+    <string name="ubication">Ubication</string>
+    <string name="area">Area</string>
+    <string name="country_language">Country Language</string>
+</resources>
